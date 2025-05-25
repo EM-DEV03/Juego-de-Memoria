@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simón Dice</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/app/img/icono.png" type="image/x-icon">
+
+    <!-- Metadatos Open Graph para vista previa en WhatsApp y redes sociales -->
+    <meta property="og:title" content="Simón Dice - Juego de Memoria" />
+    <meta property="og:description"
+        content="Pon a prueba tu memoria con Simón Dice. ¡Repite la secuencia de colores y supera tu récord!" />
+    <meta property="og:image" content="https://TU-DOMINIO.com/app/public/img/preview.png" />
+    <meta property="og:url" content="https://TU-DOMINIO.com" />
+    <meta property="og:type" content="website" />
+</head>
+
+<body>
+    <div class="simon-container">
+        <h1>Simón Dice</h1>
+        <button id="start-btn">Comenzar</button>
+        <div class="colors">
+            <button class="color-btn rojo" data-color="Rojo">Rojo</button>
+            <button class="color-btn verde" data-color="Verde">Verde</button>
+            <button class="color-btn azul" data-color="Azul">Azul</button>
+            <button class="color-btn amarillo" data-color="Amarillo">Amarillo</button>
+        </div>
+        <div id="score"></div>
+        <div id="message"></div>
+    </div>
+    <footer class="footer">
+        <div class="footer-content">
+            © Todos los derechos reservados por EM
+        </div>
+    </footer>
+
+    <script type="module" src="frontend.js"></script>
+</body>
+
+</html>
