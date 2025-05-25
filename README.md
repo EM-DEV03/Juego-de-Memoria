@@ -67,8 +67,11 @@ npm start
 
 💡 Ideas futuras
 🎵 Añadir sonidos al presionar los botones
+
 💾 Guardar puntajes más altos (high scores)
+
 🕹️ Multijugador en tiempo real con Socket.io
+
 📱 Versión para móviles (PWA)
 
 👨‍💻 Autor
