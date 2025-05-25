@@ -72,4 +72,4 @@ npm start
 - 📱 Versión para móviles (PWA)
 
 ## 👨‍💻 Autor
-- Desarrollado con ❤️ por EM
+# Desarrollado con ❤️ por EM
