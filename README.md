@@ -2,8 +2,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-v18.x-green?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 ![Express](https://img.shields.io/badge/Express.js-4.x-lightgrey?logo=express&logoColor=black)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/tu-repo)
 
 ¡Pon a prueba tu memoria con este clásico juego recreado con tecnologías modernas!  
 Simón Dice es un juego donde debes repetir secuencias de colores que se vuelven más difíciles en cada ronda. ¿Hasta dónde puedes llegar?
