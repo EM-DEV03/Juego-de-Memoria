@@ -65,14 +65,11 @@ npm install
 # Inicia el servidor en localhost:3000
 npm start
 
-💡 Ideas futuras
-🎵 Añadir sonidos al presionar los botones
+## 💡 Ideas futuras
+-🎵 Añadir sonidos al presionar los botones
+-💾 Guardar puntajes más altos (high scores)
+-🕹️ Multijugador en tiempo real con Socket.io
+-📱 Versión para móviles (PWA)
 
-💾 Guardar puntajes más altos (high scores)
-
-🕹️ Multijugador en tiempo real con Socket.io
-
-📱 Versión para móviles (PWA)
-
-👨‍💻 Autor
-Desarrollado con ❤️ por EM
+## 👨‍💻 Autor
+- Desarrollado con ❤️ por EM
