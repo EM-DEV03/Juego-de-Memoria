@@ -1,6 +1,5 @@
 # 🧠 Simón Dice - Juego de Memoria Web
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-![License](https://img.shields.io/badge/license-ISC-blue)
 ![MadeWith](https://img.shields.io/badge/Made%20with-JavaScript-brightgreen)
 
 ¡Pon a prueba tu memoria con este clásico juego recreado con tecnologías modernas!  
