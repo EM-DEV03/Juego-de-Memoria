@@ -8,8 +8,7 @@ Simón Dice es un juego donde debes repetir secuencias de colores que se vuelven
 
 ## 🎮 Demo
 
-> 🚀 **[Jugar ahora](https://TU-DOMINIO.com)**  
-*(Reemplaza con tu URL real si lo tienes desplegado)*
+> 🚀 **[Jugar ahora](https://juego-de-memoria-kfkk.onrender.com/)**  
 
 ---
 
@@ -56,7 +55,7 @@ app/
 
 🛠️ Instalación y ejecución
 # Clona el repositorio
-git clone https://github.com/tu-usuario/simon-dice-web.git
+[git clone https://github.com/tu-usuario/simon-dice-web.git](https://github.com/EM-DEV03/Juego-de-Memoria.git)
 cd simon-dice-web
 
 # Instala las dependencias
